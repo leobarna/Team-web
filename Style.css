@@ -7,10 +7,19 @@ body {
     border: 2px solid red;
     border-radius: 10px;
     box-shadow: 5px 10px;
+
+}
+nav{
+    display: flex; flex-direction: row;
+    justify-content: space-between;
+
+
 }
 ul {
     list-style-type: none;
+
 }
 li {
     display: inline-block;
+
 }

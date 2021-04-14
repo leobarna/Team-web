@@ -23,3 +23,12 @@ li {
     display: inline-block;
 
 }
+h1{
+    font-size: medium;
+    color: darkblue;
+
+    }
+p{
+    font-size: small;
+    color: mediumblue;
+}

@@ -36,11 +36,10 @@ p{
     width: 200px;
     height: 300px;
     text-align: center;
+    justify-content: space-around;
+   align-items: flex-start;
 }
 .card img {
     border-radius: 50%;
     width:100%;
-}
-.fab fa-github {
-    width: 20px;
 }

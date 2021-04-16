@@ -32,14 +32,30 @@ p{
     font-size: small;
     color: mediumblue;
 }
-.card{
-    width: 200px;
-    height: 300px;
+/* .card {
+    width: 250px;
+    height: 250px;
     text-align: center;
-    justify-content: space-around;
-   align-items: flex-start;
 }
-.card img {
+div image {
+    height: 250px;
+    width: 250px;
+    overflow: hidden;
+}
+.image {
     border-radius: 50%;
-    width:100%;
+    align-items:center;
+    height: 250px;
+    width: 250px;
+} */
+.card {
+    width: 350px;
+    height: auto;
+    text-align: center;
+}
+
+img{
+    border-radius: 50%;
+    width: 250px;
+    height: auto;
 }

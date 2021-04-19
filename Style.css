@@ -100,3 +100,43 @@ img.logo {
     max-height: 80%;
     margin-left: 20px;
 }
+/*contenido*/
+.content {
+    max-width: 1480px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 60px 30px;
+}
+.container{
+    margin-top: 60px;
+    /*background-color: mintcream;*/
+    max-width: 100%;
+    max-height: 100%;
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+/*.card{*/
+/*    !*flex-basis: 250px;*!*/
+/*    margin-left: 60px;*/
+/*}*/
+.card .cardimg{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+.imgcard{
+    max-width: 100%;
+    max-height: 100%;
+}
+.cardname{
+    margin-top: 10px;
+}
+.cardposition{
+    padding:  20px 0 10px 0;
+}
+.fa-linkedin,.fa-github{
+    color: black;
+    margin-right: 5px;
+}

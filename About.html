@@ -2,54 +2,44 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title
-    </title>
+    <title>Barna coders4</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel = "stylesheet" href = "Style.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/9fef65b42c.js" crossorigin="anonymous">
     </script>
 </head>
 <body>
-<div>
-    <!-- nav bar-->
+<header>
+    <img class="logo" alt="logo barna coders" src="https://i.pinimg.com/originals/ea/5e/b5/ea5eb5d1ce9b44cc23c1528d5fdbd3b2.jpg">
+
     <nav>
-        <a href="About.html" >
-            <img class="img-logo" alt="logo barna coders" src="https://i.pinimg.com/originals/ea/5e/b5/ea5eb5d1ce9b44cc23c1528d5fdbd3b2.jpg">
-        </a>
-        <ul>
-            <li>
-                <a href="#">Quienes Somos </a>
-            </li>
-            <li>
-                <a href="#">Que hacemos </a>
-            </li>
+        <ul class="nav_link">
+            <li><a class="active" href="index.html">Quienes somos</a></li>
+            <li><a href="#">Que hacemos</a></li>
         </ul>
     </nav>
-</div>
-<div>
+</header>
+<!--content-->
+<div class="content">
     <h1>Conoce a nuestro equipo
     </h1>
     <p> Expertas codificadoras con un amplio recorrido laboral en proyectos de Google, IBM, Caixabank entre otros.
         Transformamos tus problemas en soluciones. Entendemos las necesidades de nuestros clientes para ofrecerles servicios totalmente personalizados y adaptables a cualquier presupuesto.
-        <br>Te invitamos a un café
+        <br>Te invitamos a un cafe&#769;.
     </p>
-</div>
-<div class="card">
-    <div class="image"><img src="assets/13.jpg" alt="Foto Daniela Trifu"></div>
-    <div class="container">
-        <h1>
-            <b>Daniela Trifu
-            </b>
-        </h1>
-        <p> Full stack developer
-        </p>
+<!--cards team-->
+<div class="container">
+<div class="cards">
+    <div class="card"><img src="assets/13.jpg" alt="Foto Daniela Trifu" class="cardimg"></div>
+    <div class="cardname"><h3><b>Daniela Trifu</b></h3>
+        <p class="cardposition"> Full stack developer</p>
         <a href="https://www.linkedin.com/in/daniela-trifu/">
-            <i class="fa fa-linkedin">
-            </i>
-        </a>
+            <i class="fa fa-linkedin"></i></a>
         <a href="https://github.com/superco-art">
-            <i class="fab fa-github">
-            </i>
-        </a>
+            <i class="fab fa-github"></i></a>
     </div>
 </div>
 <div class="card">
@@ -70,6 +60,7 @@
             </i>
         </a>
     </div>
+    <div class="card">
       <div class="image"><img src="assets/olga.jpg" alt="Foto Olga Caparros"></div>
     <div class="container">
         <h1>
@@ -124,8 +115,8 @@
             </i>
         </a>
     </div>
-
 </div>
+</div></div>
 </body>
 
 </html>

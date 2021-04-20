@@ -115,6 +115,8 @@ img.logo {
 .cards{
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 60px;
 }
 
 .card .cardimg{

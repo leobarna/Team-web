@@ -144,6 +144,9 @@ header a:hover:not(.active) {
     color: black;
     margin-right: 5px;
 }
+img.imagen2{ width:auto;
+    height: 400px;
+}
 @media (min-width: 548px){
 
 }

@@ -117,9 +117,10 @@ img.logo {
 }
 .cards{
     display: flex;
-    justify-content: center;
+    justify-content:center
     flex-wrap: wrap;
     margin-top: 60px;
+
 }
 .card {
     margin-right: 60px;

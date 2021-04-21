@@ -71,7 +71,7 @@ body{
 /*header*/
 header{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     background-color: #22577A;
     height: 60px;

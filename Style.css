@@ -148,6 +148,7 @@ img.imagen2{ width:auto;
     height: 400px;
 }
 @media (min-width: 548px){
+<<<<<<< HEAD
 
 }
 .servicios {
@@ -157,4 +158,7 @@ img.imagen2{ width:auto;
 .servicioimg{
     width:200px;
     height:200px;
+=======
+.menu.burguer
+>>>>>>> 661f4646b25e9c71033643538b28e2339aa4221e
 }

@@ -103,5 +103,8 @@ img.imagen2{ width:auto;
 /*responsive design*/
 .menu.burguer{
 }
-@media (min-width: 548px){
+@media (max-width: 450px){
+    .card.cardimg{
+        border-radius: 10px;
+    }
 }

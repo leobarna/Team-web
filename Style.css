@@ -150,3 +150,11 @@ img.imagen2{ width:auto;
 @media (min-width: 548px){
 
 }
+.servicios {
+    display:flex;
+    flex-direction: row;
+}
+.servicioimg{
+    width:200px;
+    height:200px;
+}

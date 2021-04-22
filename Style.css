@@ -87,11 +87,16 @@ img.imagen2{ width:auto;
 }
 
 /*que hacemos*/
-.servicios {
+.servicios{
     display:flex;
     flex-direction: row;
+    justify-content: center;
 }
-.servicioimg {
+.servicio{
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.servicioimg{
     width: 200px;
     height: 200px;
 }

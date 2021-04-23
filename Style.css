@@ -89,22 +89,28 @@ img.imagen2{ width:auto;
 /*que hacemos*/
 .servicios{
     display:flex;
+    justify-content:center;
     flex-direction: row;
-    justify-content: center;
+}
+.servicioimg{
+    width: 200px;
+    height: 200px;
+
 }
 .servicio{
     margin-top: 60px;
     margin-left: 60px;
 }
-.servicioimg{
-    width: 200px;
-    height: 200px;
-}
-/*responsive design*/
-.menu.burguer{
-}
+
 @media (max-width: 550px){
     .card.img{
+
+
+/*responsive design*/
+
+@media (max-width: 480px){
+    .card img{
+
         border-radius: 10px;
     }
 }

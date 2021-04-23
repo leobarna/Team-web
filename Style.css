@@ -89,11 +89,12 @@ img.imagen2{ width:auto;
 /*que hacemos*/
 .servicios{
     display:flex;
-    justify-content:space-around;
+    justify-content:center;
+    flex-direction: row;
 }
-.imagencuadrada{
-    width: 250px;
-    height: 250px;
+.servicioimg{
+    width: 200px;
+    height: 200px;
 
 }
 .servicio{

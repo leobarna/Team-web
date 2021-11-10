@@ -1,20 +1,21 @@
-Hola chicas
-estoy estresada atte. Angie
-Me eh fumado un porro ya estoy menos estresada
-vamos Amanda tu puedes con esto y mas
-De nada Amanda cariño
+Project info
 
-Hola soy Olga
-Gracias chicas, he logrado.
-
-por fin yupi
+Agency :
 
 
+Year :
 
 
+Client:
 
 
-Pa matarme
-I see the light:) Veo la luz
+Role :
+Front-End Developer
 
-tortura
+Technologies :
+
+
+Summary :
+
+
+Challenges :
